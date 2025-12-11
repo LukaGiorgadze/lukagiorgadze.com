@@ -1,0 +1,117 @@
+baseURL: "https://lukagiorgadze.com/"
+languageCode: "en-us"
+title: "Luka Giorgadze"
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+copyright: "© Luka Giorgadze"
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+minify:
+  disableXML: true
+
+pagination:
+  pagerSize: 10
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "Luka Giorgadze - Software Engineer"
+  author: "Luka Giorgadze"
+  images: ["./luka-giorgadze.webp"]
+
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: "Hi there!"
+    Content: "I'm a software engineer who enjoys building things for the web and cloud. Been writing code since 2009. I live a healthy lifestyle, hit the gym, go snowboarding, and I really like dinosaurs 🦕"
+    imageUrl: "./luka-giorgadze.webp"
+
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+
+  socialIcons:
+    - name: "github"
+      title: "GitHub"
+      url: "https://github.com/lukagiorgadze"
+    - name: "linkedin"
+      title: "LinkedIn"
+      url: "https://linkedin.com/in/luka-giorgadze"
+    - name: "x"
+      title: "X"
+      url: "https://x.com/luka_giorgadze"
+    - name: "email"
+      title: "Email"
+      url: "mailto:luka.giorgadze@gmail.com"
+
+  assets:
+    disableHLJS: true
+
+  editPost:
+    URL: "https://github.com/lukagiorgadze/lukagiorgadze.com/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4a
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+services:
+  googleAnalytics:
+    id: 'G-P9YBL80CRN'
+  x:
+    disableInlineCSS: true
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
+    - identifier: road-to-wisdom
+      name: The Road to Wisdom
+      url: /road-to-wisdom/
+      weight: 30

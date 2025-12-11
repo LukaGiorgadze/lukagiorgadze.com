@@ -4,8 +4,22 @@
     <title>Categories on Luka Giorgadze</title>
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Luka Giorgadze</description>
+    <image>
+      <title>Luka Giorgadze</title>
+      <url>http://localhost:1313/luka-giorgadze.webp</url>
+      <link>http://localhost:1313/luka-giorgadze.webp</link>
+    </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
+    <copyright>Luka Giorgadze</copyright>
+    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General</title>
+      <link>http://localhost:1313/categories/general/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/general/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

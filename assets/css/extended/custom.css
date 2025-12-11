@@ -1,0 +1,61 @@
+body {
+    font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+.home-info-container {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.home-info-image {
+    flex-shrink: 0;
+}
+
+.home-info-image img {
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.home-info-text {
+    flex: 1;
+}
+
+.home-info-text .entry-header {
+    margin-bottom: 0.5rem;
+}
+
+.home-info .entry-footer {
+    text-align: right;
+}
+
+.home-info .entry-footer .social-icons {
+    justify-content: flex-end;
+}
+
+.toc details summary,
+.toc details[open] summary {
+    cursor: pointer;
+}
+
+.footer {
+    flex-wrap: wrap;
+}
+
+.footer span:last-of-type {
+    width: 100%;
+    display: block;
+    font-size: 0.85em;
+    opacity: 0.8;
+}
+
+.not-found {
+    flex-direction: column;
+}
+
+.gopher-404 {
+    position: fixed;
+    bottom: 0;
+    right: 10%;
+    user-select: none;
+}
