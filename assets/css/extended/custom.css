@@ -48,3 +48,14 @@ body {
     font-size: 0.85em;
     opacity: 0.8;
 }
+
+.not-found {
+    flex-direction: column;
+}
+
+.gopher-404 {
+    position: fixed;
+    bottom: 0;
+    right: 10%;
+    user-select: none;
+}
