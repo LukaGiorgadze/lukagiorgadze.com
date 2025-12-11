@@ -1,4 +1,4 @@
 ---
 title: "Posts"
-description: "All my blog posts"
+description: "All my thoughts"
 ---
