@@ -4,6 +4,11 @@
     <title>Posts on Luka Giorgadze</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Luka Giorgadze</description>
+    <image>
+      <title>Luka Giorgadze</title>
+      <url>http://localhost:1313/luka-giorgadze.webp</url>
+      <link>http://localhost:1313/luka-giorgadze.webp</link>
+    </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <copyright>Luka Giorgadze</copyright>

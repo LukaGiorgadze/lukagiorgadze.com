@@ -73,5 +73,7 @@
     <loc>http://localhost:1313/search/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/road-to-wisdom/</loc>
   </url>
 </urlset>

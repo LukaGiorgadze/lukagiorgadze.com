@@ -34,8 +34,15 @@ params:
   env: production
   description: "Luka Giorgadze - Software Engineer"
   author: "Luka Giorgadze"
+  images: ["./luka-giorgadze.webp"]
 
   defaultTheme: auto
+
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: "I'm a software engineer who enjoys building things for the web and cloud. Been writing code since 2009. I live a healthy lifestyle, hit the gym, go snowboarding, and I really like dinosaurs 🦕"
+    imageUrl: "./luka-giorgadze.webp"
+
   ShowShareButtons: true
   ShowReadingTime: true
   ShowPostNavLinks: true
@@ -45,10 +52,6 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-
-  homeInfoParams:
-    Title: "Hi there 👋"
-    Content: "Welcome to my personal website. I'm a software engineer passionate about building great products."
 
   socialIcons:
     - name: "github"
@@ -60,6 +63,9 @@ params:
     - name: "x"
       title: "X"
       url: "https://x.com/luka_giorgadze"
+    - name: "email"
+      title: "Email"
+      url: "mailto:luka.giorgadze@gmail.com"
 
   assets:
     disableHLJS: true
@@ -100,6 +106,12 @@ menu:
     - identifier: search
       name: Search
       url: /search/
+      weight: 10
     - identifier: archives
       name: Archives
       url: /archives/
+      weight: 20
+    - identifier: road-to-wisdom
+      name: The Road to Wisdom
+      url: /road-to-wisdom/
+      weight: 30
