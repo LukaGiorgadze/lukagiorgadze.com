@@ -12,43 +12,21 @@
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <copyright>Luka Giorgadze</copyright>
-    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docker for Developers: A Practical Guide</title>
-      <link>http://localhost:1313/posts/docker-for-developers/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/docker-for-developers/</guid>
-      <description>Everything you need to know about Docker to improve your development workflow.</description>
-    </item>
-    <item>
-      <title>Building REST APIs with Go</title>
-      <link>http://localhost:1313/posts/building-rest-apis/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/building-rest-apis/</guid>
-      <description>Learn how to build production-ready REST APIs using Go&amp;rsquo;s standard library and popular frameworks.</description>
-    </item>
-    <item>
-      <title>Getting Started with Go</title>
-      <link>http://localhost:1313/posts/getting-started-with-go/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/getting-started-with-go/</guid>
-      <description>A beginner&amp;rsquo;s guide to the Go programming language and why it&amp;rsquo;s becoming so popular.</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>Welcome to my blog! Here&amp;rsquo;s what you can expect from this space.</description>
+      <title>First Commit</title>
+      <link>http://localhost:1313/posts/first-commit/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-commit/</guid>
+      <description>Thoughts on engineering, entrepreneurship, and navigating the intersection of technology and life.</description>
     </item>
     <item>
       <title>The Road to Wisdom</title>
       <link>http://localhost:1313/road-to-wisdom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/road-to-wisdom/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/gopher.svg&#34; alt=&#34;Gopher&#34; width=&#34;150&#34;&gt;
-&lt;blockquote&gt;
+      <description>&lt;blockquote&gt;
 &lt;p&gt;The road to wisdom? Well, it&amp;rsquo;s plain&lt;br&gt;
 And simple to express:&lt;br&gt;
 Err&lt;br&gt;

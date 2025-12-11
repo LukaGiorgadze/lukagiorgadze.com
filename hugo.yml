@@ -39,7 +39,7 @@ params:
   defaultTheme: auto
 
   homeInfoParams:
-    Title: "Hi there 👋"
+    Title: "Hi there!"
     Content: "I'm a software engineer who enjoys building things for the web and cloud. Been writing code since 2009. I live a healthy lifestyle, hit the gym, go snowboarding, and I really like dinosaurs 🦕"
     imageUrl: "./luka-giorgadze.webp"
 
