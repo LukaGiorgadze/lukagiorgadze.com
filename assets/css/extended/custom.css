@@ -1,0 +1,4 @@
+.toc details summary,
+.toc details[open] summary {
+    cursor: pointer;
+}

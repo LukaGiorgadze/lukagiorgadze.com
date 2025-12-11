@@ -6,6 +6,35 @@
     <description>Recent content on Luka Giorgadze</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker for Developers: A Practical Guide</title>
+      <link>http://localhost:1313/posts/docker-for-developers/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/docker-for-developers/</guid>
+      <description>Everything you need to know about Docker to improve your development workflow.</description>
+    </item>
+    <item>
+      <title>Building REST APIs with Go</title>
+      <link>http://localhost:1313/posts/building-rest-apis/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/building-rest-apis/</guid>
+      <description>Learn how to build production-ready REST APIs using Go&amp;rsquo;s standard library and popular frameworks.</description>
+    </item>
+    <item>
+      <title>Getting Started with Go</title>
+      <link>http://localhost:1313/posts/getting-started-with-go/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/getting-started-with-go/</guid>
+      <description>A beginner&amp;rsquo;s guide to the Go programming language and why it&amp;rsquo;s becoming so popular.</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>Welcome to my blog! Here&amp;rsquo;s what you can expect from this space.</description>
+    </item>
   </channel>
 </rss>

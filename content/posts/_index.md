@@ -1,5 +1,4 @@
 ---
 title: "Posts"
+description: "All my blog posts"
 ---
-
-Here you'll find my blog posts.

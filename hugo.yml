@@ -1,0 +1,110 @@
+baseURL: "https://lukagiorgadze.com/"
+languageCode: "en-us"
+title: "Luka Giorgadze"
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+minify:
+  disableXML: true
+
+pagination:
+  pagerSize: 10
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "Luka Giorgadze - Software Engineer"
+  author: "Luka Giorgadze"
+
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: "Welcome to my personal website. I'm a software engineer passionate about building great products."
+
+  socialIcons:
+    - name: "github"
+      title: "GitHub"
+      url: "https://github.com/lukagiorgadze"
+    - name: "linkedin"
+      title: "LinkedIn"
+      url: "https://linkedin.com/in/lukagiorgadze"
+    - name: "email"
+      title: "Email"
+      url: "mailto:hello@lukagiorgadze.com"
+
+  assets:
+    disableHLJS: true
+
+  editPost:
+    URL: "https://github.com/lukagiorgadze/lukagiorgadze.com/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+services:
+  instagram:
+    disableInlineCSS: true
+  x:
+    disableInlineCSS: true
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 15
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
