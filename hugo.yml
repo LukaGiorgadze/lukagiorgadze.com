@@ -7,6 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
+copyright: "© Luka Giorgadze"
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
@@ -55,10 +56,10 @@ params:
       url: "https://github.com/lukagiorgadze"
     - name: "linkedin"
       title: "LinkedIn"
-      url: "https://linkedin.com/in/lukagiorgadze"
-    - name: "email"
-      title: "Email"
-      url: "mailto:hello@lukagiorgadze.com"
+      url: "https://linkedin.com/in/luka-giorgadze"
+    - name: "x"
+      title: "X"
+      url: "https://x.com/luka_giorgadze"
 
   assets:
     disableHLJS: true
@@ -89,8 +90,8 @@ markup:
     noClasses: false
 
 services:
-  instagram:
-    disableInlineCSS: true
+  googleAnalytics:
+    id: 'G-P9YBL80CRN'
   x:
     disableInlineCSS: true
 
@@ -99,12 +100,6 @@ menu:
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 15
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 10
