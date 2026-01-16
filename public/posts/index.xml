@@ -9,11 +9,18 @@
       <url>http://localhost:1313/luka-giorgadze.webp</url>
       <link>http://localhost:1313/luka-giorgadze.webp</link>
     </image>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.154.3</generator>
     <language>en-us</language>
     <copyright>Luka Giorgadze</copyright>
-    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude</title>
+      <link>http://localhost:1313/posts/claude/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/claude/</guid>
+      <description>Claude code under the hood</description>
+    </item>
     <item>
       <title>First Commit</title>
       <link>http://localhost:1313/posts/first-commit/</link>

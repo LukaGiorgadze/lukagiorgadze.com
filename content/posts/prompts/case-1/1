@@ -1,0 +1,92 @@
+Analyze if this message indicates a new conversation topic. If it does, extract a 2-3 word title that captures the new topic.
+Format your response as a JSON object with two fields: 'isNewTopic' (boolean) and 'title' (string, or null if isNewTopic is false).
+Only include these fields, no other text. ONLY generate the JSON object, no other text (eg. no markdown).
+
+------------------------------------------------------------------------------------------
+## RAW
+------------------------------------------------------------------------------------------
+{
+  "model": "claude-haiku-4-5-20251001",
+  "tools": [],
+  "stream": true,
+  "system": [
+    {
+      "text": "You are Claude Code, Anthropic's official CLI for Claude.",
+      "type": "text"
+    },
+    {
+      "text": "Analyze if this message indicates a new conversation topic. If it does, extract a 2-3 word title that captures the new topic. Format your response as a JSON object with two fields: 'isNewTopic' (boolean) and 'title' (string, or null if isNewTopic is false). Only include these fields, no other text. ONLY generate the JSON object, no other text (eg. no markdown).",
+      "type": "text"
+    }
+  ],
+  "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "Which programming language is being used for this project?",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "{",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "user_id": "user_124a1cfd29bd3156510435c338f090b1362e61d657ba2df605843d18eb528e9f_account__session_9fb52fbe-2a86-4464-8e85-0c8bfce8c300"
+  },
+  "max_tokens": 32000
+}
+
+------------------------------------------------------------------------------------------
+## RESPONSE
+------------------------------------------------------------------------------------------
+{
+    "id": "0bcd2710-1c56-463e-a681-4c025a7a5e2b",
+    "model": "claude-haiku-4-5",
+    "usage": {
+      "total_tokens": 150,
+      "prompt_tokens": 126,
+      "completion_tokens": 24,
+      "prompt_tokens_details": {
+        "text_tokens": null,
+        "audio_tokens": null,
+        "image_tokens": null,
+        "cached_tokens": 0,
+        "cache_creation_tokens": 0
+      },
+      "cache_read_input_tokens": 0,
+      "completion_tokens_details": {
+        "text_tokens": null,
+        "audio_tokens": null,
+        "image_tokens": null,
+        "reasoning_tokens": 0,
+        "accepted_prediction_tokens": null,
+        "rejected_prediction_tokens": null
+      },
+      "cache_creation_input_tokens": 0
+    },
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "\n  \"isNewTopic\": true,\n  \"title\": \"Programming Language\"\n}",
+          "tool_calls": null,
+          "function_call": null,
+          "provider_specific_fields": null
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "created": 1767997530,
+    "system_fingerprint": null
+  }

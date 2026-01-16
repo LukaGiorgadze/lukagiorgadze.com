@@ -40,7 +40,7 @@ params:
 
   homeInfoParams:
     Title: "Hi there!"
-    Content: "I'm a software engineer who enjoys building things for the web and cloud. Been writing code since 2009. I live a healthy lifestyle, hit the gym, go snowboarding, and I really like dinosaurs 🦕"
+    Content: "I'm a software engineer who enjoys building things for the web and cloud. Been writing code since <time datetime=\"2008\" title=\"2008\">💾</time><br /> I live a healthy lifestyle, hit the gym, go snowboarding, and I like dinosaurs 🦕"
     imageUrl: "./luka-giorgadze.webp"
 
   ShowShareButtons: true
