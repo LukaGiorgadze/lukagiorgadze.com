@@ -5,9 +5,11 @@ draft: false
 tags: ["claude", "claude code", "anthropic", "coding agent", "reverse engineering"]
 categories: ["claude"]
 summary: "A simple deep dive into how Claude Code works, how it scans your project, uses tools, and interacts with your codebase."
+cover:
+  image: "/posts/how-claude-code-works-under-the-hood/title.png"
+  relative: false
+  hiddenInList: true
 ---
-
-![How Claude Code Actually Works](./title.png "How Claude Code Actually Works")
 
 I am working on a prompt to workflow engine called **Lomsa**. Imagine [Lovable](https://lovable.dev/) and [n8n](https://n8n.io) had a baby :D
 It is similar to [Sim](https://sim.ai), but much simpler. Every node in the workflow is just a code node that is written and maintained by an AI assistant.
