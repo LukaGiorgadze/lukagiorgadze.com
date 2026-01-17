@@ -40,7 +40,28 @@ body {
 .toc details summary,
 .toc details[open] summary {
     cursor: pointer;
+
 }
+.toc details {
+    margin: 0 !important;
+}
+
+details,
+.details {
+  margin: 1rem 0;
+}
+
+details > summary,
+.details > summary {
+  display: list-item;   /* keeps the triangle marker */
+  cursor: pointer;
+}
+
+details:not([open]),
+.details:not([open]) {
+  margin-bottom: 1rem;
+}
+
 
 .footer {
     flex-wrap: wrap;
@@ -86,3 +107,4 @@ body {
         transform: translate3d(0, -210px, 0) rotate(5deg) scale(1.05);
     }
 }
+
