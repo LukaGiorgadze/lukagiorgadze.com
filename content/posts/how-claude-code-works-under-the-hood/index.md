@@ -3466,7 +3466,7 @@ Remember: The agents you create should be autonomous experts capable of handling
     }
   ],
   "metadata": {
-    "user_id": "user_124a1cfd29bd3156510435c338f090b1362e61d657ba2df605843d18eb528e9f_account__session_ed28ecde-2ac1-4f64-9c36-d2ce95247565"
+    "user_id": "xxx"
   },
   "max_tokens": 32000
 }
