@@ -3690,7 +3690,7 @@ If a request looks complex, the reminder pushes Claude to create and manage a to
 
 Going back to use case #1, the question itself is very simple, so the extra steps should not really need. But still, it clearly shows that Claude is always judging how complex a task is, even when the request looks trivial.
 
-I will not list every request here (see whole conversation history), but the flow stays mostly the same. First, Claude tries to understand what the user is asking. Then it starts exploring the codebase using tools. It reads high level files like `README.md`, `go.mod`, and `main.go` to get a general idea of the project.
+I will not list every request here ([see full conversation history](#interesting-resources)), but the flow stays mostly the same. First, Claude tries to understand what the user is asking. Then it starts exploring the codebase using tools. It reads high level files like `README.md`, `go.mod`, and `main.go` to get a general idea of the project.
 
 In many cases, Claude runs under a system prompt like:
 *"You are an interactive CLI tool that helps users with software engineering tasks."*
