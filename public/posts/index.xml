@@ -9,7 +9,7 @@
       <url>http://localhost:1313/luka-giorgadze.webp</url>
       <link>http://localhost:1313/luka-giorgadze.webp</link>
     </image>
-    <generator>Hugo -- 0.154.3</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <copyright>Luka Giorgadze</copyright>
     <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
@@ -26,6 +26,13 @@
       <link>http://localhost:1313/posts/first-commit/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/first-commit/</guid>
+      <description>Thoughts on engineering, entrepreneurship, and navigating the intersection of technology and life.</description>
+    </item>
+    <item>
+      <title>First Commit</title>
+      <link>http://localhost:1313/posts/why-lifting-weights-makes-me-a-better-engineer/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-lifting-weights-makes-me-a-better-engineer/</guid>
       <description>Thoughts on engineering, entrepreneurship, and navigating the intersection of technology and life.</description>
     </item>
   </channel>
