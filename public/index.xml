@@ -9,11 +9,23 @@
       <url>http://localhost:1313/luka-giorgadze.webp</url>
       <link>http://localhost:1313/luka-giorgadze.webp</link>
     </image>
-    <generator>Hugo -- 0.154.3</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <copyright>Luka Giorgadze</copyright>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Health as an Investment</title>
+      <link>http://localhost:1313/posts/health-as-an-investment/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/health-as-an-investment/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“A healthy man wants a thousand things, a sick man only wants one.”&lt;/p&gt;
+&lt;p&gt;— Confucius&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It’s often said that we all have a lof of problems, until we get sick - then we have only one.&lt;/p&gt;
+&lt;p&gt;Your body is the most important system you will ever maintain. Every goal you chase, every relationship you value, and every success you work toward depends on it. Without health, everything else fades into the background.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Claude Code Works Under the Hood</title>
       <link>http://localhost:1313/posts/how-claude-code-works-under-the-hood/</link>

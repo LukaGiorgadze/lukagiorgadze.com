@@ -3,7 +3,6 @@ title: "How Claude Code Works Under the Hood"
 date: 2025-12-15
 draft: false
 tags: ["claude", "claude code", "anthropic", "coding agent", "reverse engineering"]
-categories: ["claude"]
 summary: "A simple deep dive into how Claude Code works, how it scans your project, uses tools, and interacts with your codebase."
 cover:
   image: "/posts/how-claude-code-works-under-the-hood/title.png"

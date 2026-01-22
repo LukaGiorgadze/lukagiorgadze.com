@@ -3,7 +3,6 @@ title: "First Commit"
 date: 2025-12-10
 draft: false
 tags: ["welcome"]
-categories: ["General"]
 summary: "Thoughts on engineering, entrepreneurship, and navigating the intersection of technology and life."
 ---
 
