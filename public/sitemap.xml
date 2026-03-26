@@ -2,54 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/anthropic/</loc>
+    <loc>https://lukagiorgadze.com/tags/gym/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukagiorgadze.com/posts/health-as-an-investment/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukagiorgadze.com/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukagiorgadze.com/posts/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukagiorgadze.com/tags/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukagiorgadze.com/tags/anthropic/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lukagiorgadze.com/tags/claude/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/claude/</loc>
+    <loc>https://lukagiorgadze.com/tags/claude-code/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/claude/</loc>
+    <loc>https://lukagiorgadze.com/tags/coding-agent/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/claude-code/</loc>
+    <loc>https://lukagiorgadze.com/posts/how-claude-code-works-under-the-hood/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/coding-agent/</loc>
+    <loc>https://lukagiorgadze.com/tags/reverse-engineering/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-claude-code-works-under-the-hood/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reverse-engineering/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/first-commit/</loc>
+    <loc>https://lukagiorgadze.com/posts/first-commit/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/general/</loc>
+    <loc>https://lukagiorgadze.com/tags/welcome/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/welcome/</loc>
-    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <loc>https://lukagiorgadze.com/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://lukagiorgadze.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://lukagiorgadze.com/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://lukagiorgadze.com/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/road-to-wisdom/</loc>
+    <loc>https://lukagiorgadze.com/road-to-wisdom/</loc>
   </url>
 </urlset>

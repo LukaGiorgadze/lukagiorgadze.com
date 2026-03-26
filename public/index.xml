@@ -9,11 +9,24 @@
       <url>http://localhost:1313/luka-giorgadze.webp</url>
       <link>http://localhost:1313/luka-giorgadze.webp</link>
     </image>
-    <generator>Hugo -- 0.154.3</generator>
+    <generator>Hugo -- 0.158.0</generator>
     <language>en-us</language>
     <copyright>Luka Giorgadze</copyright>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Health as an Investment</title>
+      <link>http://localhost:1313/posts/health-as-an-investment/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/health-as-an-investment/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“A healthy man wants a thousand things, a sick man only wants one.”&lt;/p&gt;
+&lt;p&gt;— Confucius&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;People often say we have many problems in life - until we get sick. Then we realize we have only one.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Imagine it is the year 2050.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A doctor is sitting in front of you. The room feels quiet and heavy. You hear words you never wanted to hear — you have a serious illness. The biggest reason is not bad luck. It is not genetics. It is your lifestyle.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Claude Code Works Under the Hood</title>
       <link>http://localhost:1313/posts/how-claude-code-works-under-the-hood/</link>
